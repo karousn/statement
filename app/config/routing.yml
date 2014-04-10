@@ -1,0 +1,5 @@
+krs_state:
+    resource: "@KrsStateBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
